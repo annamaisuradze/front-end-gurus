@@ -1,2 +1,2 @@
 # front-end-gurus
-educational projects 2018
+educational projects
