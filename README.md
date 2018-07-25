@@ -1,2 +1,2 @@
 # front-end-gurus
-educational projects
+educational projectserwerwer
